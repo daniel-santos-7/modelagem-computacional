@@ -4,4 +4,4 @@ Este repositório reúne soluções desenvolvidas para diversos problemas aborda
 
 ---
 
-<center>2024</center>
+<p style="text-align:center;">2024</p>
